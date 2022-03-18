@@ -11,7 +11,7 @@ __link : Class Diagram__
 - [Class Diagram word](DOC/Class Diagram.docx)
 - [Class Diagram visual paradigm 16.3](DOC/salle_de_reunion.vpp)
 
-__link : Class Diagram__
+__link : Sequence Diagram__
 - [Sequence Diagram PDF](DOC/Sequence Diagram.pdf)
 - [Sequence Diagram word](DOC/Sequence Diagram.docx)
 - [Sequence Diagram visual paradigm 16.3](DOC/salle_de_reunion.vpp)
